@@ -65,12 +65,12 @@ OR
 
 #### PR's Are Very Welcome
 
-## Deploy
+## Deploy  
 You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
 
-<details><summary>Deploy To Heroku</summary>
+<details><summary>Deploy To Heroku/deploy? template=https://github.com/BHAGATHSKUMAR/Adv-Auto-Filter-Bot-V2?organization=BHAGATHSKUMAR&organization=BHAGATHSKUMAR
 <p>
 <br>
 <a href="https://github.com/AlbertEinsteinTG/af-deploy-script">
